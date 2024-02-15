@@ -1,1 +1,1 @@
-# Electronics-Website-1
+Electronics Showroom website static page using HTML and CSS
